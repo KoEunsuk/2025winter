@@ -9,7 +9,8 @@ function App() {
   return (
     <>
       <div>
-        깃허브 테스트용
+        깃허브 테스트 
+        이거진짜에요~~~
       </div>
     </>
   )
